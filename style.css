@@ -16,7 +16,13 @@ body {
   justify-content: center;
   align-items: center;
 }
-
+h1{
+  font-size:3.5em;
+  font-family:impact;
+  color:#221fe0;
+  margin-bottom:7px;
+  }
+    
 .qrbox {
   display: grid;
   grid-template-columns: 1fr auto;
