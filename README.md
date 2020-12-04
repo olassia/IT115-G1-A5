@@ -1,9 +1,7 @@
 # IT115-G1-A5
 [![HitCount](http://hits.dwyl.com/IT115-G1-A5/https://githubcom/olassia/IT115-G1-A5.svg)](http://hits.dwyl.com/IT115-G1-A5/https://githubcom/olassia/IT115-G1-A5)<br>
 This is a QR code generator app 👋
-# Web App Tutorial
-
-
+# QR Code App build tutorial
 
 # Team Members:
 Nicholas Jimenez - [Team Lead]
@@ -13,8 +11,6 @@ Evan  [Coding App]
 Mich Iwata - [Coding App]
 Morgan Bligh - [Research/Tutorial]
 
-
-
 # Resources:
 QR Code app tutorial
 https://www.youtube.com/watch?v=AxjH-fd2SxM
@@ -22,8 +18,6 @@ How to hello world
 https://docs.google.com/document/d/1eaw0VFVrWigKKsECKV-mQdEMxzpKIdLrC8vYbHAzTj0/edit
 Project layout guideline
 https://docs.google.com/document/d/1M-0SaWCetzl-NpAhEpTOEdIRFMzGI6R0pnU0CbECw_8/edit
-
-
 
 # QR CODE GENERATOR 
 
