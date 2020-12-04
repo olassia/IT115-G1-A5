@@ -12,9 +12,9 @@
 
 # Resources:
 QR Code app tutorial
-https://www.youtube.com/watch?v=AxjH-fd2SxM
+https://www.youtube.com/watch?v=AxjH-fd2SxM <br/>
 How to hello world
-https://docs.google.com/document/d/1eaw0VFVrWigKKsECKV-mQdEMxzpKIdLrC8vYbHAzTj0/edit
+https://docs.google.com/document/d/1eaw0VFVrWigKKsECKV-mQdEMxzpKIdLrC8vYbHAzTj0/edit <br/>
 Project layout guideline
 https://docs.google.com/document/d/1M-0SaWCetzl-NpAhEpTOEdIRFMzGI6R0pnU0CbECw_8/edit
 
