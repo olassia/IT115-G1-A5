@@ -1,15 +1,14 @@
 # IT115-G1-A5
-[![HitCount](http://hits.dwyl.com/IT115-G1-A5/https://githubcom/olassia/IT115-G1-A5.svg)](http://hits.dwyl.com/IT115-G1-A5/https://githubcom/olassia/IT115-G1-A5)<br>
-This is a QR code generator app 👋
+
 # QR Code App build tutorial
 
 # Team Members:
-Nicholas Jimenez - [Team Lead]
-Byron Shepard - [Tutorial]
-Jeremy Bittner - [Tutorial]
-Evan  [Coding App]
-Mich Iwata - [Coding App]
-Morgan Bligh - [Research/Tutorial]
+## Nicholas Jimenez - [Team Lead] <br/>
+## Byron Shepard - [Tutorial]
+## Jeremy Bittner - [Tutorial]
+## Evan  [Coding App]
+## Mich Iwata - [Coding App]
+## Morgan Bligh - [Research/Tutorial]
 
 # Resources:
 QR Code app tutorial
@@ -44,3 +43,5 @@ Next create a new file and save as “style.css” this will stylize your applic
 After that create another file and name it “script.js” this will utilize Javascript to perform the user requested interaction.  Reproduce the code in the image below into the file.
 
 <img width="867" alt="Screen Shot 2020-12-04 at 2 11 49 PM" src="https://user-images.githubusercontent.com/51951486/101221119-e6517300-363b-11eb-8cac-deeac3faafda.png">
+
+[![HitCount](http://hits.dwyl.com/IT115-G1-A5/https://githubcom/olassia/IT115-G1-A5.svg)](http://hits.dwyl.com/IT115-G1-A5/https://githubcom/olassia/IT115-G1-A5)<br>
