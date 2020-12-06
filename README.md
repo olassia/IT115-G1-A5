@@ -3,12 +3,12 @@
 # QR Code App build tutorial
 
 # Team Members:
-## Nicholas Jimenez - [Team Lead] <br/>
-## Byron Shepard - [Tutorial]
-## Jeremy Bittner - [Tutorial]
-## Evan  [Coding App]
-## Mich Iwata - [Coding App]
-## Morgan Bligh - [Research/Tutorial]
+Nicholas Jimenez - [Team Lead] <br/>
+Byron Shepard - [Tutorial] <br/>
+Jeremy Bittner - [Tutorial]
+Evan  [Coding App] <br/>
+Mich Iwata - [Coding App] <br/>
+Morgan Bligh - [Research/Tutorial] <br/>
 
 # Resources:
 QR Code app tutorial
@@ -35,12 +35,12 @@ Below is an image of what you should write into the new file, when you have copi
 
 Next create a new file and save as “style.css” this will stylize your application.  Reproduce the code in the two images below into the file.
 
-<img width="866" alt="Screen Shot 2020-12-04 at 2 12 15 PM" src="https://user-images.githubusercontent.com/51951486/101221125-ea7d9080-363b-11eb-8383-d1d1c70df08c.png">
+<img width="867" alt="Screen Shot 2020-12-04 at 2 11 49 PM" src="https://user-images.githubusercontent.com/51951486/101221119-e6517300-363b-11eb-8cac-deeac3faafda.png">
 
-<img width="866" alt="Screen Shot 2020-12-04 at 2 12 30 PM" src="https://user-images.githubusercontent.com/51951486/101221142-f0737180-363b-11eb-97d4-30f60df19931.png">
+<img width="866" alt="Screen Shot 2020-12-04 at 2 12 15 PM" src="https://user-images.githubusercontent.com/51951486/101221125-ea7d9080-363b-11eb-8383-d1d1c70df08c.png">
 
 After that create another file and name it “script.js” this will utilize Javascript to perform the user requested interaction.  Reproduce the code in the image below into the file.
 
-<img width="867" alt="Screen Shot 2020-12-04 at 2 11 49 PM" src="https://user-images.githubusercontent.com/51951486/101221119-e6517300-363b-11eb-8cac-deeac3faafda.png">
+<img width="866" alt="Screen Shot 2020-12-04 at 2 12 30 PM" src="https://user-images.githubusercontent.com/51951486/101221142-f0737180-363b-11eb-97d4-30f60df19931.png">
 
 [![HitCount](http://hits.dwyl.com/IT115-G1-A5/https://githubcom/olassia/IT115-G1-A5.svg)](http://hits.dwyl.com/IT115-G1-A5/https://githubcom/olassia/IT115-G1-A5)<br>
