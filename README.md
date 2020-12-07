@@ -18,10 +18,10 @@ https://docs.google.com/document/d/1eaw0VFVrWigKKsECKV-mQdEMxzpKIdLrC8vYbHAzTj0/
 Project layout guideline
 https://docs.google.com/document/d/1M-0SaWCetzl-NpAhEpTOEdIRFMzGI6R0pnU0CbECw_8/edit
 
-# QR CODE GENERATOR 
+# QR Code Generator 
 Within this guide are the steps required to create your own QR Code Generator.  A QR, or “quick response” code, is capable of storing significant amounts of data for its size and a QR Code Generator is a simple application that takes a user’s text input and generates a corresponding QR Code. 
 
-# REQUIREMENTS 
+# Requirements 
 A computer with any operating system ( OSX, Windows, etc.)
 A Text Editor for coding, such as Notepad++, Visual Studio Code 
 A Basic understanding of HTML, CSS, and Javascript 
