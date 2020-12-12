@@ -5,7 +5,7 @@
 # Team Members:
 Nicholas Jimenez - [Team Lead] <br/>
 Byron Shepard - [Tutorial] <br/>
-Jeremy Bittner - [Tutorial]
+Jeremy Bittner - [Tutorial] <br/>
 Evan  [Coding App] <br/>
 Mich Iwata - [Coding App] <br/>
 Morgan Bligh - [Research/Tutorial] <br/>
