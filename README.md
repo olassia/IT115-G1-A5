@@ -11,6 +11,8 @@ Mich Iwata - [Coding App] <br/>
 Morgan Bligh - [Research/Tutorial] <br/>
 
 # Resources:
+Project Website
+https://mc3waller.github.io/IT115-A5-Group1-Webpage/public/index.html<br/>
 QR Code app tutorial
 https://www.youtube.com/watch?v=AxjH-fd2SxM <br/>
 How to hello world
